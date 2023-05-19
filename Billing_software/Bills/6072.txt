@@ -1,0 +1,15 @@
+	 Welcome  my  friend
+
+ Bill number :6072
+ Customer Name :23
+ phone number :1234
+ ===================================
+ products		QTY		Price
+ ===================================
+ Bath Soap 		1		40
+-------------------------------
+ Cosmetic Tax			Rs. 2.0
+ grocery Tax			Rs. 0.0
+ Cold drink Tax			Rs. 0.0
+ Total Bill :			  Rs.82.0
+-------------------------------
